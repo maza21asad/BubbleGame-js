@@ -20,6 +20,9 @@ A fun and interactive **Bubble-popping game** built with **JavaScript, HTML, and
 3. The **timer counts down** – keep scoring before time runs out!  
 4. The game resets with a new target number after each round.  
 
-💡 **Tip:** The faster you find the correct number, the higher your score!  
+💡 **Tip:** The faster you find the correct number, the higher your score!
+
+## 🎮 Play Now!  
+🔗 **Live Demo:** [Click here to play](https://bubble-game-js-pi.vercel.app/)
 
 Give it a try and test your reflexes! 🔥  
